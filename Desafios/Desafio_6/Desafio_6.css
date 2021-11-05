@@ -1,0 +1,11 @@
+body {
+    background-color:bisque;
+}
+#text {
+    padding-top: 10px;
+}
+
+.padrao {
+    padding: 0px 12px 12px 0px;
+    font-weight: normal;
+}
