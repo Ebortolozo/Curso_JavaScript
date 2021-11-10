@@ -1,3 +1,3 @@
-# Curso_JavaScript
+# Desafios_JavaScript
 
 <h2> Desafios em JavaScript do curso Do Guanabara </h2>
